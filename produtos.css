@@ -1,0 +1,13 @@
+body {
+    background: #B0C4DE
+}
+
+p {
+    text-align: center;
+}
+#banner {
+     width: 25%;
+     border: 10px solid #5F9EA0;
+     padding: 10px;
+     margin-left: 15px;
+}
